@@ -1,6 +1,6 @@
 # password-generator (quasar-project)
 
-a tool to generate random passwords
+ https://mario-passwordgenerator.surge.sh/#/
 
 ## Install the dependencies
 ```bash
